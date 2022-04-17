@@ -1,0 +1,10 @@
+D:\practice\demand\Customer.API\Customer.Domain\bin\Debug\netcoreapp3.1\Customer.Domain.deps.json
+D:\practice\demand\Customer.API\Customer.Domain\bin\Debug\netcoreapp3.1\Customer.Domain.dll
+D:\practice\demand\Customer.API\Customer.Domain\bin\Debug\netcoreapp3.1\Customer.Domain.pdb
+D:\practice\demand\Customer.API\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.csproj.AssemblyReference.cache
+D:\practice\demand\Customer.API\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\demand\Customer.API\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.AssemblyInfoInputs.cache
+D:\practice\demand\Customer.API\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.AssemblyInfo.cs
+D:\practice\demand\Customer.API\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.csproj.CoreCompileInputs.cache
+D:\practice\demand\Customer.API\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.dll
+D:\practice\demand\Customer.API\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.pdb

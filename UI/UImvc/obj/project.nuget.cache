@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y72lJbZTi4ROLFcO5GH2ekXmRQGalBbbpgPq66y4M7Y8oMIoHn+YOsEzSQqo4gOVwPWOKNPuFRdLU5Ebz/NKWg==",
+  "success": true,
+  "projectFilePath": "D:\\practice\\demand\\UI\\UImvc\\UImvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}

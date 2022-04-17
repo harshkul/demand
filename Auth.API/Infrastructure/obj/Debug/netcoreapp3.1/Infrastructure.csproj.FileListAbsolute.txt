@@ -1,0 +1,10 @@
+D:\practice\social-login-web-api-master\social-login-web-api-master\src\Server\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+D:\practice\social-login-web-api-master\social-login-web-api-master\src\Server\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\practice\social-login-web-api-master\social-login-web-api-master\src\Server\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\practice\social-login-web-api-master\social-login-web-api-master\src\Server\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.AssemblyReference.cache
+D:\practice\social-login-web-api-master\social-login-web-api-master\src\Server\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\social-login-web-api-master\social-login-web-api-master\src\Server\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+D:\practice\social-login-web-api-master\social-login-web-api-master\src\Server\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+D:\practice\social-login-web-api-master\social-login-web-api-master\src\Server\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+D:\practice\social-login-web-api-master\social-login-web-api-master\src\Server\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+D:\practice\social-login-web-api-master\social-login-web-api-master\src\Server\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb

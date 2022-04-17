@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5mgPCSpgNOUBxk3/5tq/gMgP57hwqTnKNNLFKsPy0SNsVZfCoL/uVPTyzBZ9n2CBE8pGO0vsDudi1RkptUOgNQ==",
+  "success": true,
+  "projectFilePath": "D:\\practice\\demand\\Customer.API\\Customer.API\\Customer.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}

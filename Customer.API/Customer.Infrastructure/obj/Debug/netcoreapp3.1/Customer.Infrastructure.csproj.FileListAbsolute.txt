@@ -1,0 +1,13 @@
+D:\practice\demand\Customer.API\Customer.Infrastructure\bin\Debug\netcoreapp3.1\Customer.Infrastructure.deps.json
+D:\practice\demand\Customer.API\Customer.Infrastructure\bin\Debug\netcoreapp3.1\Customer.Infrastructure.dll
+D:\practice\demand\Customer.API\Customer.Infrastructure\bin\Debug\netcoreapp3.1\Customer.Infrastructure.pdb
+D:\practice\demand\Customer.API\Customer.Infrastructure\bin\Debug\netcoreapp3.1\Customer.Domain.dll
+D:\practice\demand\Customer.API\Customer.Infrastructure\bin\Debug\netcoreapp3.1\Customer.Domain.pdb
+D:\practice\demand\Customer.API\Customer.Infrastructure\obj\Debug\netcoreapp3.1\Customer.Infrastructure.csproj.AssemblyReference.cache
+D:\practice\demand\Customer.API\Customer.Infrastructure\obj\Debug\netcoreapp3.1\Customer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\demand\Customer.API\Customer.Infrastructure\obj\Debug\netcoreapp3.1\Customer.Infrastructure.AssemblyInfoInputs.cache
+D:\practice\demand\Customer.API\Customer.Infrastructure\obj\Debug\netcoreapp3.1\Customer.Infrastructure.AssemblyInfo.cs
+D:\practice\demand\Customer.API\Customer.Infrastructure\obj\Debug\netcoreapp3.1\Customer.Infrastructure.csproj.CoreCompileInputs.cache
+D:\practice\demand\Customer.API\Customer.Infrastructure\obj\Debug\netcoreapp3.1\Customer.Infrastructure.csproj.CopyComplete
+D:\practice\demand\Customer.API\Customer.Infrastructure\obj\Debug\netcoreapp3.1\Customer.Infrastructure.dll
+D:\practice\demand\Customer.API\Customer.Infrastructure\obj\Debug\netcoreapp3.1\Customer.Infrastructure.pdb

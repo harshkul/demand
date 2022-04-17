@@ -1,0 +1,15 @@
+D:\practice\demand\Product.API\Product.Infrastructure\obj\Debug\netcoreapp3.1\Product.Infrastructure.csproj.AssemblyReference.cache
+D:\practice\demand\Product.API\Product.Infrastructure\obj\Debug\netcoreapp3.1\Product.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\demand\Product.API\Product.Infrastructure\obj\Debug\netcoreapp3.1\Product.Infrastructure.AssemblyInfoInputs.cache
+D:\practice\demand\Product.API\Product.Infrastructure\obj\Debug\netcoreapp3.1\Product.Infrastructure.AssemblyInfo.cs
+D:\practice\demand\Product.API\Product.Infrastructure\obj\Debug\netcoreapp3.1\Product.Infrastructure.csproj.CoreCompileInputs.cache
+D:\practice\demand\Product.API\Product.Infrastructure\bin\Debug\netcoreapp3.1\Product.Infrastructure.deps.json
+D:\practice\demand\Product.API\Product.Infrastructure\bin\Debug\netcoreapp3.1\Product.Infrastructure.dll
+D:\practice\demand\Product.API\Product.Infrastructure\bin\Debug\netcoreapp3.1\Product.Infrastructure.pdb
+D:\practice\demand\Product.API\Product.Infrastructure\bin\Debug\netcoreapp3.1\Product.Application.dll
+D:\practice\demand\Product.API\Product.Infrastructure\bin\Debug\netcoreapp3.1\Product.Domain.dll
+D:\practice\demand\Product.API\Product.Infrastructure\bin\Debug\netcoreapp3.1\Product.Application.pdb
+D:\practice\demand\Product.API\Product.Infrastructure\bin\Debug\netcoreapp3.1\Product.Domain.pdb
+D:\practice\demand\Product.API\Product.Infrastructure\obj\Debug\netcoreapp3.1\Product.Infrastructure.csproj.CopyComplete
+D:\practice\demand\Product.API\Product.Infrastructure\obj\Debug\netcoreapp3.1\Product.Infrastructure.dll
+D:\practice\demand\Product.API\Product.Infrastructure\obj\Debug\netcoreapp3.1\Product.Infrastructure.pdb

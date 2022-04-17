@@ -1,0 +1,21 @@
+version: '3.4'
+
+services:
+  Demand.api:
+    image: ${DOCKER_REGISTRY-}Demandapi
+    build:
+      context: .
+      dockerfile: Gateway.API\Demand.API\Dockerfile
+
+  Customer.api:
+    image: ${DOCKER_REGISTRY-}Customerapi
+    build:
+      context: .
+      dockerfile: Customer.API\Customer.API\Dockerfile
+
+  Product.api:
+    image: ${DOCKER_REGISTRY-}Productapi
+    build:
+      context: .
+      dockerfile: Product.API\Product.API\Dockerfile
+

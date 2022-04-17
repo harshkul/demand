@@ -1,0 +1,10 @@
+D:\practice\demand\Product.API\Product.Domain\bin\Debug\netcoreapp3.1\Product.Domain.deps.json
+D:\practice\demand\Product.API\Product.Domain\bin\Debug\netcoreapp3.1\Product.Domain.dll
+D:\practice\demand\Product.API\Product.Domain\bin\Debug\netcoreapp3.1\Product.Domain.pdb
+D:\practice\demand\Product.API\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.csproj.AssemblyReference.cache
+D:\practice\demand\Product.API\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\demand\Product.API\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.AssemblyInfoInputs.cache
+D:\practice\demand\Product.API\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.AssemblyInfo.cs
+D:\practice\demand\Product.API\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.csproj.CoreCompileInputs.cache
+D:\practice\demand\Product.API\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.dll
+D:\practice\demand\Product.API\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.pdb

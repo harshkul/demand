@@ -1,0 +1,13 @@
+D:\practice\demand\Product.API\Product.Application\bin\Debug\netcoreapp3.1\Product.Application.deps.json
+D:\practice\demand\Product.API\Product.Application\bin\Debug\netcoreapp3.1\Product.Application.dll
+D:\practice\demand\Product.API\Product.Application\bin\Debug\netcoreapp3.1\Product.Application.pdb
+D:\practice\demand\Product.API\Product.Application\bin\Debug\netcoreapp3.1\Product.Domain.dll
+D:\practice\demand\Product.API\Product.Application\bin\Debug\netcoreapp3.1\Product.Domain.pdb
+D:\practice\demand\Product.API\Product.Application\obj\Debug\netcoreapp3.1\Product.Application.csproj.AssemblyReference.cache
+D:\practice\demand\Product.API\Product.Application\obj\Debug\netcoreapp3.1\Product.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\demand\Product.API\Product.Application\obj\Debug\netcoreapp3.1\Product.Application.AssemblyInfoInputs.cache
+D:\practice\demand\Product.API\Product.Application\obj\Debug\netcoreapp3.1\Product.Application.AssemblyInfo.cs
+D:\practice\demand\Product.API\Product.Application\obj\Debug\netcoreapp3.1\Product.Application.csproj.CoreCompileInputs.cache
+D:\practice\demand\Product.API\Product.Application\obj\Debug\netcoreapp3.1\Product.Application.csproj.CopyComplete
+D:\practice\demand\Product.API\Product.Application\obj\Debug\netcoreapp3.1\Product.Application.dll
+D:\practice\demand\Product.API\Product.Application\obj\Debug\netcoreapp3.1\Product.Application.pdb
